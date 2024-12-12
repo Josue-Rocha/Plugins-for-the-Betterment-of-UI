@@ -7,6 +7,7 @@ Step 1:
 
   Go to the Github page and copy the ccontents of "Spirals.py"
   Next, open up Maya and click on the script editor on the far bottom right of the screen
+
 Step 2:
   
   Click the "+" icon to open a new code tab.
